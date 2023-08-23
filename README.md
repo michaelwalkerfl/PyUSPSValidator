@@ -1,2 +1,2 @@
 # PyUSPSValidator
-An updated wrapper to utilize USPS Webtools for address validation written in Python3.
+📮 PyPostalVerify: Simplifying USPS WebTools, one address at a time! 🐍✉️ Verify and validate with ease, thanks to this Python-powered wrapper. Say goodbye to address woes! 🚀📍
