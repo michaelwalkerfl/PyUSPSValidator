@@ -10,7 +10,12 @@
 
 ## Installation
 
-Currently, manual installation by copying the source code is supported.
+
+Install the package using pip:
+
+```bash
+pip install pyuspsvalidator
+```
 
 ### Dependencies:
 
