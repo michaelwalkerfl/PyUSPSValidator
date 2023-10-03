@@ -34,7 +34,7 @@ To use the WebToolsRequest class, initialize it with your user ID.
 
 .. code:: python
 
-    from webtools import WebToolsRequest
+    from pyuspsvalidator import WebToolsRequest
 
     api = WebToolsRequest("YOUR_USER_ID")
 

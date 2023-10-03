@@ -31,7 +31,7 @@ pip install requests
 To use the WebToolsRequest class, initialize it with your user ID.
 
 ```python
-from webtools import WebToolsRequest
+from pyuspsvalidator import WebToolsRequest
 
 api = WebToolsRequest("YOUR_USER_ID")
 ```

@@ -1,12 +1,12 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 with open('README.rst', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
     name="pyuspsvalidator",
-    version="0.0.2",
-    packages=find_packages(),
+    version="0.0.4",
+    packages=['pyuspsvalidator'],
     long_description=long_description,
     long_description_content_type='text/x-rst',
     install_requires=[
